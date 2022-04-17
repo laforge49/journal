@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "2020/04/April-17-2020.md",
-            "mode": "preview",
+            "mode": "source",
             "source": false
           }
         }
@@ -90,6 +90,7 @@
   "active": "5967db32617b3913",
   "lastOpenFiles": [
     "2020/04/April-17-2020.md",
+    "Topics/Named Go Blocks.md",
     "Topics/Env.md"
   ]
 }
