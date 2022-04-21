@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022/04/April-18-2022.md",
+            "file": "Contents.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022/04/April-18-2022.md",
+                "file": "Contents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,11 +89,15 @@
   },
   "active": "5967db32617b3913",
   "lastOpenFiles": [
+    "Contents.md",
+    "2022/04/April-21-2022.md",
     "2022/04/April-18-2022.md",
-    "Dropped Topics/Named Go Blocks.md",
     "2022/04/April-17-2022.md",
-    "Topics/Gem Local Data.md",
+    "Topics/Function Handles.md",
+    "Topics/A Singular API.md",
     "Topics/Env.md",
+    "Topics/Gem Local Data.md",
+    "Dropped Topics/Named Go Blocks.md",
     "Topics/Gems.md"
   ]
 }
