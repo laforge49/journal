@@ -1,2 +1,2 @@
-- [A Singular API](../2022/04/April-21-2022.md#A%20Singular%20API)
+- [2022-04-21](../2022/04/April-21-2022.md#A%20Singular%20API)
 - 
