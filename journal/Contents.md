@@ -20,4 +20,5 @@ Suggested reading order of topics:
 - [Gem Local Data](Topics/Gem%20Local%20Data.md)
 - [A Singular API](Topics/A%20Singular%20API.md)
 - [Function Handles](Topics/Function%20Handles.md)
+- [Function Handles Table](Topics/Function%20Handles%20Table.md)
 - 
