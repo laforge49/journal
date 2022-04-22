@@ -1,0 +1,1 @@
+[2022-04-22](../2022/04/April-22-2022.md#Requirements%20of%20an%20Operation)
