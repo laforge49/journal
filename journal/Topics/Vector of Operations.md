@@ -1,0 +1,2 @@
+- [2022-04-23](../2022/04/April-23-2022.md#Vector%20of%20Operations)
+- 

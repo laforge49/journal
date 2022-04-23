@@ -91,13 +91,13 @@
   "lastOpenFiles": [
     "2022/04/April-23-2022.md",
     "Topics/Requirements of an Operation.md",
-    "Contents.md",
-    "2022/04/April-22-2022.md",
-    "Introduction.md",
-    "2022/04/April-21-2022.md",
+    "Topics/Vector of Operations.md",
+    "Topics/A Singular API.md",
+    "Topics/Env.md",
     "Topics/Function Handles.md",
-    "2022/04/April-17-2022.md",
-    "Dropped Topics/Named Go Blocks.md",
-    "Topics/Env.md"
+    "Topics/Function Handles Table.md",
+    "Topics/Gem Local Data.md",
+    "Topics/Gems.md",
+    "2022/04/April-22-2022.md"
   ]
 }
