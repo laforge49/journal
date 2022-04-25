@@ -4,13 +4,15 @@ As I keep starting new projects, and as I have learned the value of separating c
 
 Hopefully this will give rise to greater continuity.
 
+## Daily Notes
+
+Each day I create a new daily note. Well, some days anyway. The daily note has two parts. The first part is the journal entry for that day, though most days have no such entry.
+
 ## Topics
 
-With each passing day I can revise topics written on previous days by adding the updated version to the note for the day. This way older versions are not altered.
+The second part of the daily note is the set of topics that I've added or changed.  This way older versions are not altered.
 
-Each topic note then contains links to all the versions of a topic. Easy enough then to see how a topic has evolved.
-
-Topics are simply indexes into the journals. The latest version for each topic can be found by following the last link in the index.
+The topic files are then just indexes to all the versions for each topic. Easy enough then to see how a topic has evolved. The latest version for each topic can be found by following the last link in the index.
 
 
-See [Contents](Contents.md) for a suggested reading order.
+See [Contents](Topics/Contents.md) for a suggested reading order.
