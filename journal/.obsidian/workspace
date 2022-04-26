@@ -7,12 +7,8 @@
         "id": "5967db32617b3913",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Topics/Contents.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Topics/Contents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +84,15 @@
   },
   "active": "5967db32617b3913",
   "lastOpenFiles": [
-    "Topics/Contents.md",
+    "Introduction.md",
+    "Topics/Env.md",
     "2022/04/April-26-2022.md",
+    "Topics/Contents.md",
+    "2022/04/April-18-2022.md",
+    "Topics/Gems.md",
+    "2022/04/April-17-2022.md",
     "2022/04/April-23-2022.md",
     "Topics/Vector of Operations.md",
-    "2022/04/April-22-2022.md",
-    "Topics/Requirements of an Operation.md",
-    "2022/04/April-25-2020.md",
-    "2022/04/April-17-2022.md",
-    "Topics/Env.md",
-    "2022/04/April-21-2022.md"
+    "2022/04/April-22-2022.md"
   ]
 }
