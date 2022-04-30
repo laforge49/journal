@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022/04/April-26-2022.md",
+            "file": "2022/04/April-30-2022.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022/04/April-26-2022.md",
+                "file": "2022/04/April-30-2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "5967db32617b3913",
   "lastOpenFiles": [
+    "2022/04/April-30-2022.md",
     "2022/04/April-26-2022.md",
-    "Topics/Introduction.md",
-    "Topics/Gems.md",
-    "Topics/Contents.md",
-    "Introduction.md",
-    "Topics/Env.md",
+    "2022/04/April-25-2022.md",
+    "2022/04/April-23-2022.md",
+    "2022/04/April-22-2022.md",
+    "2022/04/April-21-2022.md",
     "2022/04/April-18-2022.md",
     "2022/04/April-17-2022.md",
-    "2022/04/April-23-2022.md",
-    "Topics/Vector of Operations.md"
+    "Topics/Introduction.md",
+    "Topics/Gems.md"
   ]
 }
