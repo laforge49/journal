@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022/05/May-10-2022.md",
+            "file": "2022/05/May-12-2022.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022/05/May-10-2022.md",
+                "file": "2022/05/May-12-2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "5967db32617b3913",
   "lastOpenFiles": [
+    "2022/05/May-12-2022.md",
     "2022/05/May-10-2022.md",
-    "Topic Indexes/Gems Framework.md",
-    "2022/05/May-07-2022.md",
-    "Topic Indexes/Application Groups.md",
-    "Topic Indexes/Contents.md",
-    "Topic Indexes/Introduction.md",
-    "Topic Indexes/Regenerative Systems.md",
     "2022/05/May-02-2022.md",
-    "2022/05/May-08-2022.md",
-    "Topic Indexes/Dependencies.md"
+    "Older Topic Indexes/Namespaces.md",
+    "Older Topic Indexes/Gems Framework.md",
+    "2022/05/May-07-2022.md",
+    "Older Topic Indexes/Application Groups.md",
+    "Contents.md",
+    "Older Topic Indexes/Introduction.md",
+    "Older Topic Indexes/Regenerative Systems.md"
   ]
 }
