@@ -1,0 +1,11 @@
+{
+  "legacyEditor": false,
+  "showLineNumber": true,
+  "spellcheck": true,
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": true
+}
